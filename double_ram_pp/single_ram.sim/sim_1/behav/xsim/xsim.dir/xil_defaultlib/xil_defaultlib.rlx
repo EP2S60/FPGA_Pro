@@ -1,0 +1,8 @@
+0.7
+2020.2
+Nov 18 2020
+09:47:47
+E:/R104A0/single_ram/single_ram.gen/sources_1/ip/blk_mem_gen_0/sim/blk_mem_gen_0.v,1635474229,verilog,,E:/R104A0/single_ram/single_ram.srcs/sources_1/new/single_ram.v,,blk_mem_gen_0,,,,,,,,
+E:/R104A0/single_ram/single_ram.sim/sim_1/behav/xsim/glbl.v,1605673889,verilog,,,,glbl,,,,,,,,
+E:/R104A0/single_ram/single_ram.srcs/sim_1/new/single_ram_tb.v,1635493542,verilog,,,,single_ram_tb,,,,,,,,
+E:/R104A0/single_ram/single_ram.srcs/sources_1/new/single_ram.v,1635494165,verilog,,E:/R104A0/single_ram/single_ram.srcs/sim_1/new/single_ram_tb.v,,single_ram,,,,,,,,
